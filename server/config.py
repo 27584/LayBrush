@@ -1,0 +1,16 @@
+# 服务器版本
+SERVER_VERSION = "0.1"
+SERVER_VERSION_ = 1  # 绝对版本号
+
+# 客户端最新版本
+LATEST_CLIENT_VERSION = "0.3_alpha"
+LATEST_CLIENT_VERSION_ = 4
+
+# 客户端最低要求版本
+NEED_CLIENT_VERSION_ = 4
+
+
+
+IP = "0.0.0.0"
+TCP_PORT = 2758
+UDP_PORT = 42391

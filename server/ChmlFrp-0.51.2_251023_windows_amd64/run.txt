@@ -1,0 +1,1 @@
+.\ChmlFrp-0.51.2_251023_windows_amd64\frpc.exe -u HnpRBtBsPQAWVHK5M6RURavk -p 214705,214706
